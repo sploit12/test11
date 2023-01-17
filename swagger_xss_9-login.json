@@ -1,1 +1,10 @@
 
+{
+    "url": "https://raw.githubusercontent.com/sploit12/test11/main/swagger_xss_6_html.yaml",
+    "urls": [
+        {
+            "url": "https://raw.githubusercontent.com/sploit12/test11/main/swagger_xss_6_html.yaml",
+            "name": "Foo"
+        }
+    ]
+}
